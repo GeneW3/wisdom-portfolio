@@ -4,6 +4,6 @@ Wisdom is the ability to use knowledge, experience, and good judgment to make so
 ###Education
 Marketing
 
-###Work Experience
+##Work Experience
 
 Data Analyst @ Sage Software
