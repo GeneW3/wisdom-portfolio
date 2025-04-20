@@ -8,3 +8,4 @@ The challenge is to understand whether the cannibization risk and whether or not
 ## Summary of Insights
 
 
+## Technical Details
