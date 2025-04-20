@@ -1,14 +1,7 @@
-# Data Analyst
+# Team Sales Attainment Analysis (Monthly Dashboard)
 
-Wisdom is the ability to use knowledge, experience, and good judgment to make sound decisions and navigate life's complexities
+## North Star Metrics and Dimension
 
-## Education
-
-Marketing
-
-## Work Experience
-
-Data Analyst @ Sage Software
+## Summary of Insights
 
 
-## Projects
