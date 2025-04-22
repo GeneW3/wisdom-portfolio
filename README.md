@@ -2,9 +2,10 @@
 
 ## Executive Summary
 
-Rainbow Foods has shown an steady downward trend of monthly sales and revenue ever since the opening of the sister store in the area under the new low cost banner Sunny Foods.  
-The challenge is to understand the level of revenue trends to the overall chain, what is size of these cross-shopping customers, and what focus should marketing activities be on in order to maintain spending.   
+Rainbow Foods has showed an downward trend of monthly sales and revenue ever since the opening of the sister store in the area under the new low cost banner Sunny Foods.
 
+The challenge is to understand the total revenue risk to the chain, what are the characteristics of this segment of cross-shoppers, and what marketing acitivities should focus on to maintain and grow total spend, frequency of visits, and spending per visit.
+ 
 ## Summary of Insights
 
 
